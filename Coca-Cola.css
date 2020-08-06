@@ -1,0 +1,127 @@
+html, body, a, h1, h2, p, ul, li {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    font-family: 'Oswald', "Times New Roman", 'Arial';
+}
+.Lettuce {
+    background: #000000 url(simple.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+}
+.John {
+    margin: 0 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ffffff;
+}
+h3 {
+    font-size: 14pt;
+}
+li {
+    display: inline;
+}
+a {
+    font-size: 14pt;
+    color: #ffffff;
+    text-decoration-line: none;
+    padding: 0 7px;
+}
+.Farm {
+    text-align: center;
+    font-size: 28pt;
+    padding-bottom: 225px;
+}
+h1 {
+    font-size: 60pt;
+    padding-top: 120px;
+    padding-bottom: 20px;
+}
+.line {
+    border-bottom: 1px solid #ffffff;
+    width: 350px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    text-align: center;
+}
+h2 {
+    padding-bottom: 10px;
+    font-size: 24pt;
+}
+.RPF {
+    background-color: #000000;
+    width: 100%;
+}
+.Rock {
+    display: flex;
+}
+.Reggie {
+    background-image: url(Rock.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 40%;
+    height: 400px;
+}
+.OJ {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 14pt;
+    height: 400px;
+    color: #ffffff;
+}
+.Pucas {
+    width: 80%;
+    margin: 0 auto;
+}
+.Pineapple {
+    display: flex;
+    background-color: #0f0f0f;
+}
+.Iwata {
+    background-image: url(Pineapple.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 40%;
+    height: 400px;
+}
+.Mario {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 14pt;
+    height: 400px;
+    color: #ffffff;
+}
+.Luigi {
+    width: 80%;
+    margin: 0 auto;
+}
+.Fetachinni {
+    display: flex;
+    background-color: #1f1f1f;
+}
+.Noodles {
+    background-image: url(PastaPower.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 40%;
+    height: 400px;
+}
+.Creeper {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 14pt;
+    height: 400px;
+    color: #ffffff;
+}
+.Aw-man {
+    width: 80%;
+    margin: 0 auto;
+}
